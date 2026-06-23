@@ -4,6 +4,8 @@
 
 **在线预览**: 部署到 GitHub Pages / Vercel / Cloudflare Pages 后即可访问。
 
+![预览截图](docs/preview.png)
+
 ---
 
 ## 功能
