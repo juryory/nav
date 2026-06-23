@@ -25,7 +25,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/nav.git
+git clone https://github.com/juryory/nav.git
 cd nav
 
 # 安装依赖
